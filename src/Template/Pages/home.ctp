@@ -72,7 +72,7 @@ oc deploy cakephp-mysql-example --latest
           </section>
           <section class="col-xs-12 col-sm-6 col-md-6">
 
-                <h2>Managing your application</h2>
+                <h2>SUNIL Managing your application</h2>
 
                 <p>Documentation on how to manage your application from the Web Console or Command Line is available at the <a href="http://docs.okd.io/latest/dev_guide/overview.html">Developer Guide</a>.</p>
 
